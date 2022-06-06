@@ -16,6 +16,7 @@ header{
 
 .links-container a:hover{
   background-color: #E62721;
+  border-radius: 10px;
 }
 
 @media(max-width: 768px){
