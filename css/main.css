@@ -99,6 +99,7 @@ main{
   .movie-tittle{
     font-size: 1.45rem;
     transform: translateY(5px);
+    padding-bottom: 15px;
   }
   .movie-text{
     display: none;
